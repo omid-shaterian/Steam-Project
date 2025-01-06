@@ -1,4 +1,4 @@
-![Steam Logo](https://images.app.goo.gl/3vJopjmN2kdX2bsz8)
+![Steam Logo](https://images.app.goo.gl/cZdJWByoSCuq9YLH6)
 # Steam games project
 This data analysis project involved working with a dataset of over 85,000 game titles published on the Steam platform. The project began with exploratory data analysis (EDA) using PostgreSQL, followed by the creation of an interactive dashboard using Power BI to visualize and interpret the insights effectively.
 
